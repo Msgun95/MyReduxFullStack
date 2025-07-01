@@ -1,0 +1,33 @@
+.card{
+  background-color: #0c071b;
+
+  box-shadow: rgba(215, 106, 255, 0.507) 0px 0px 20px;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.menuItem{
+  border: 2px solid #3b90d6;
+   /* border: 2px solid #3b90d6;
+  font-size: 1.2rem; */
+}
+.activeMenuItem{
+
+  background-image: linear-gradient(150deg, #3111be, #7a72fa);
+  color: white;
+  /* .activeMenuItem {
+  background-image: linear-gradient(150deg, #3111be, #7a72fa);
+  color: white;
+  font-size: 1.2rem; match or larger */
+
+
+}
+.logoutButton{
+  color: white !important;
+  background-image: linear-gradient(150deg, #3111be, hsl(352, 88%, 43%));
+
+}
+.customeButton{
+  background-image: linear-gradient(150deg, #3111be, hsl(340, 86%, 34%));
+  color: white !important;
+}

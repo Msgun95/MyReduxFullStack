@@ -1,0 +1,10 @@
+.container{
+  background-image: linear-gradient(150deg, #4227bb, #504a99);
+  width: 100%;
+  /* width:  w-full; */
+}
+
+.navbar {
+  background-image: linear-gradient(150deg, #3111be, #473fb4);
+  width: 100%;
+}
